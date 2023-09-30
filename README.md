@@ -6,7 +6,8 @@ To see the dashboard, just run the following:
 ```streamlit run mosqlimate.py```
 
 That's the first view of the dashboard:
-<img width="1424" alt="Screen Shot 2023-09-30 at 12 21 50" src="https://github.com/Mosqlimate-project/dash_streamlit/assets/65051489/cd70e687-208b-45da-ac0c -9f7520c42cd9">
+
+<img width="1425" alt="Screen Shot 2023-09-30 at 12 49 46" src="https://github.com/Mosqlimate-project/dash_streamlit/assets/65051489/b227f764-0742-4382-8584-d30cc06ecf65">
 
 The figure on the left was created using the function `plot_heatmap_single` saved in the `vis.py`. The animation on the right was created using the function `plot_map` saved in the `vis.py`.
 This animation is heavy, so running the dashboard the first time can take some time. That must be optimized in the following versions.
